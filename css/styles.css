@@ -521,10 +521,6 @@ nav a:hover {
     background-color: #6b4807;
 }
 
-.roundRobin p {
-    opacity: 0.1;
-}
-
 @media (max-width:390px) {
     .gameTable {
         width: 340px;
