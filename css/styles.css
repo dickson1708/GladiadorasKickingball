@@ -181,6 +181,22 @@ nav a:hover {
     width: 50%;
 }
 
+#tercerLugar {
+    background-color: #E2AC36;
+    margin: auto;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.titleTercer {
+    text-align: center;
+    color: rgb(210, 210, 210);
+    font-family: Evogria;
+}
+
+#cargandoIcon {
+    width: 30px;
+}
+
 .verLiga {
     display: flex;
     justify-content: center;
